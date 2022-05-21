@@ -1,2 +1,5 @@
 # DIO-Desafio-paginaNetflix
-Recriando a Interface do Netflix
+
+Teacher: Felipe Aguiar
+
+HTML - Recriando a Interface do Netflix
